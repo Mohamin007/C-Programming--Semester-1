@@ -18,7 +18,7 @@ printf("The area of you rectangle is : %d\n" , l*b);
 printf("Enter the square length : ");
 scanf("%d" , &l);
 
-printf("The area of you rectangle is : %d" , l*l);
+printf("The area of you square is : %d" , l*l);
     return 0;
 
 }
