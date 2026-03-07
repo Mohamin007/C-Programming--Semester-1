@@ -16,11 +16,11 @@ Practice programs written during my first semester while learning C programming 
 | `05_functions` | Functions, Parameters, Scope | 7 |
 | `06_arrays` | 1D Arrays, Searching, Sorting elements | 23 |
 | `07_2d_arrays` | Matrices, Matrix operations | 8 |
-| `08_strings` | String operations, String functions | 2 |
+| `08_strings` | String operations, String functions | 12 |
 | `09_recursion` | Recursive functions, Fibonacci, Tower of Hanoi | 16 |
 | `10_sorting_searching` | Bubble, Selection, Quick Sort, Linear & Binary Search | 10 |
 | `11_file_handling` | File I/O with fopen, fclose, fprintf, fscanf | 5 |
-| `12_projects` | Mini projects — | 5 |
+| `12_projects` | Mini projects — | 10 |
 | `13_projects-2.0` | Mini Projects | 7 |
 
 ---
