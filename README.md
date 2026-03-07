@@ -21,7 +21,7 @@ Practice programs written during my first semester while learning C programming 
 | `10_sorting_searching` | Bubble, Selection, Quick Sort, Linear & Binary Search | 10 |
 | `11_file_handling` | File I/O with fopen, fclose, fprintf, fscanf | 5 |
 | `12_projects` | Mini projects — | 10 |
-| `13_projects-2.0` | Mini Projects | 7 |
+| `13_projects-2.0` | Mini Projects posted in another repo | 7 |
 
 ---
 
