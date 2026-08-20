@@ -1,0 +1,4 @@
+Customer: Mohamin | Batches: 2 | Total: Rs.900.00
+Customer: MohaminMir | Batches: 1 | Total: Rs.300.00
+Customer: Mohamin | Batches: 1 | Total: Rs.300.00
+Customer: new | Batches: 1 | Total: Rs.450.00
